@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const imageBox = document.createElement('img');
         imageBox.src = `assets/${img}`;
-        imageBox.style.width = '20%';
+        imageBox.style.width = '40%';
         reasonDiv.appendChild(imageBox);
 
         reasonsSection.appendChild(reasonDiv);
