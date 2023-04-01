@@ -16,11 +16,9 @@ document.addEventListener('DOMContentLoaded', () => {
         { reason: 'life of the party', img: 'party.jpg' },
         { reason: 'not allergic to anything', img: 'not-allergic.jpg' },
         { reason: 'sunset slut', img: 'sunset.jpg' },
-
         { reason: 'loves her friends', img: 'loves-friends.jpg' },
         { reason: 'great talker', img: 'great-talker.JPG' },
         { reason: 'great at sleeping', img: 'great-sleeper.jpg' },
-
         { reason: 'can drive manual', img: 'drive-manual.GIF' },
         { reason: 'really smart', img: 'really-smart.jpg' },
         { reason: 'loves the moon', img: 'moon.jpg' },
